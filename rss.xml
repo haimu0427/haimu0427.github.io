@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>zhuzn--blog</title>
+        <title>zhuzn&#39;s blog</title>
         <subtitle>cs and life</subtitle>
         <icon>https://haimu0427.github.io/assets/favicon.ico</icon>
         <link>https://haimu0427.github.io</link>
@@ -15,6 +15,7 @@
         <category term="hexo" />
         <category term=" blog" />
         <category term=" life" />
+        <category term=" cs" />
         <item>
             <guid isPermalink="true">https://haimu0427.github.io/2025/09/27/review/</guid>
             <title>review</title>

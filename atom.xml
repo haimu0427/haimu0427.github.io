@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haimu0427.github.io</id>
-    <title>zhuzn--blog</title>
+    <title>zhuzn&#39;s blog</title>
     <subtitle>cs and life</subtitle>
     <icon>https://haimu0427.github.io/assets/favicon.ico</icon>
     <link href="https://haimu0427.github.io" />
@@ -12,6 +12,7 @@
     <category term="hexo" />
     <category term=" blog" />
     <category term=" life" />
+    <category term=" cs" />
     <entry>
         <id>https://haimu0427.github.io/2025/09/27/review/</id>
         <title>review</title>
